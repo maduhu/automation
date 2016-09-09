@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <servers>
 	<server>
-	   <id>git</id>  
+	   <id>Level1Git</id>  
 	   <username>${env.GITHUB_USER}</username>  
 	   <password>${env.GITHUB_TOKEN}</password>  
 	</server> 
